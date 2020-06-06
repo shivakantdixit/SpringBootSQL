@@ -19,6 +19,7 @@ import com.springboot.model.Employee;
 
 @RestController
 @RequestMapping("/employee")
+
 public class EmployeeController {
 	
 	@Autowired
